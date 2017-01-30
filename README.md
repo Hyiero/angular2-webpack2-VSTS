@@ -1,6 +1,6 @@
-# Angular 2 - Webpack 2 - Visual Studio Team Service Seed
+# Angular 2 & Webpack 2 Seed Project using Team Services for CI/CD
 
-## This repository contains a seed project for a Angular 2 and webpack 2 stack project. Can get up and running in minutes. And is setup to successfully build to Visual Studio Team Services
+## This is a front end Seed project for Angular 2
 
 ## Commands:
 1. **npm start** - This is for local development. It will bundle the app and turn on the webpack-dev-server and also enable hot module replacement
